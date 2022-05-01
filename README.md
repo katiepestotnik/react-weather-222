@@ -1,2 +1,2 @@
 # react-weather-222
-Created with CodeSandbox
+Simple App practicing passing props
